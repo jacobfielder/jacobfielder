@@ -8,7 +8,7 @@ Computer Information Systems Student
 
 I am a senior at the University of North Alabama studying CIS with a minor in Cyber sec
 
-* 🌍  I'm based in Alabama, United States
+* 🌍  I'm based in the United States
 
 ### Skills
 
