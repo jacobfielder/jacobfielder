@@ -8,9 +8,11 @@ Computer Information Systems Student
 
 I am a senior at the University of North Alabama studying Computer Information Systems with a minor in Cyber sec!
 
-* 🌍  I'm based in the United States
-* I love technology and all things cyber related!
-* 🎮 I enjoy playing videogames!
+* 🌍  I'm based in Alabama, United States
+* ✉️  You can contact me at [jcbfldr@gmail.com](mailto:jcbfldr@gmail.com)
+* 🚀  I'm currently working on [Cybersecurity Project](http://github.com/jacobfielder)
+* 🧠  I'm learning Topics for the Security+ & CCNA certifications
+* ⚡  I love learning about tech and playing videogames!
 
 ### Skills
 
