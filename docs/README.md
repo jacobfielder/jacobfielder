@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jacob Fielder
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jacob Fielder!
 =====================================================================================================================================
 
 ![alt text](https://github.com/jacobfielder/jacobfielder/blob/main/dog-hat.jpg?raw=true)
@@ -6,9 +6,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Information Systems Student
 ------------------------------------
 
-I am a senior at the University of North Alabama studying CIS with a minor in Cyber sec
+I am a senior at the University of North Alabama studying Computer Information Systems with a minor in Cyber sec!
 
 * 🌍  I'm based in the United States
+* I love technology and all things cyber related!
 * 🎮 I enjoy playing videogames!
 
 ### Skills
