@@ -6,11 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Information Systems Student
 ------------------------------------
 
-I am a senior at the University of North Alabama studying Computer Information Systems with a minor in Cyber sec!
+I am a senior at the University of North Alabama studying Computer Information Systems with a minor in Cyber Sec!
 
 * 🌍  I'm based in Alabama, United States
 * ✉️  You can contact me at [jcbfldr@gmail.com](mailto:jcbfldr@gmail.com)
-* 🚀  I'm currently working on [Cybersecurity Project - Check this out!](http://github.com/jacobfielder/dev-george-project)
+* 🚀  I'm currently working on [SIEM Project - Check this out!](http://github.com/jacobfielder/)
 * 🧠  I'm learning Topics for the Security+ & CCNA certifications
 * ⚡  I love learning about tech and playing videogames!
 
